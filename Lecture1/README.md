@@ -9,7 +9,7 @@
 | [ASSIGNMENT.md](ASSIGNMENT.md) | 과제 목표, 제출물, 평가 기준 |
 | [GIT_TUTORIAL.md](GIT_TUTORIAL.md) | Git의 기본 개념과 로컬 작업 흐름 |
 | [PR_LECTURE.md](PR_LECTURE.md) | GitHub Pull Request 생성 및 리뷰 반영 방법 |
-| [GAME_AI_CURRICULUM.md](GAME_AI_CURRICULUM.md) | 전체 6일차 게임 AI 커리큘럼 |
+| [GAME_AI_CURRICULUM.md](GAME_AI_CURRICULUM.md) | 전체 12일차 개념 중심 게임 AI 커리큘럼 |
 | [DAY1_AI_GOAL.md](DAY1_AI_GOAL.md) | 1일차 탑다운 AI Survival Arena 목표 설계 안내 |
 
 ## 권장 학습 순서

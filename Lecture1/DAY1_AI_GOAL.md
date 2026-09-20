@@ -78,4 +78,4 @@ AI의 답변을 정답으로 취급하지 않습니다. 제안 중 하나 이상
 
 ## 다음 차시 연결
 
-2일차에는 오늘 정의한 관측과 행동을 Unity 씬에서 연결합니다. 3일차에는 같은 문제를 `MoveToExit`, `GetEnergy`, `AvoidDanger`, `Wait` FSM으로 구현합니다.
+2일차에는 오늘 정의한 관측과 행동을 환경·에이전트 구조 관점에서 해석합니다. 3일차에는 같은 문제를 `MoveToExit`, `GetEnergy`, `AvoidDanger`, `Wait` FSM으로 모델링합니다.
